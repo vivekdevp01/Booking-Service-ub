@@ -15,4 +15,5 @@ public class CreateBookingDto {
     private ExactLocation startLocation;
     private ExactLocation endLocation;
 
+
 }
